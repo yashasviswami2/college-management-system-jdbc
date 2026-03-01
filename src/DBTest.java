@@ -10,7 +10,7 @@ public class DBTest {
             Connection con = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/college_management",
                     "root",
-                    "Y@shasvi@150221"
+                    "NEWPassword1"
             );
 
             System.out.println("Database Connected Successfully!");
